@@ -1,0 +1,1 @@
+My agent delegates every task to subagents, reads none of their work, then writes me a confident summary — it's not an assistant, it's middle management with a token budget.
